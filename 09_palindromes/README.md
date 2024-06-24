@@ -16,4 +16,5 @@ palindromes('racecar') // true
 palindromes('tacos') // false
 ```
 
-
+Animallootsfoliated
+detailofstoollamina
